@@ -1,0 +1,5 @@
+name: love-city
+type: app
+entrypoint: index.html
+build:
+  dockerfile: Dockerfile
